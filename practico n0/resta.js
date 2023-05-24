@@ -1,6 +1,6 @@
 
 function restar(minuendo, sustraendo) {
-    resultado = minuendo - sustraendo;
+    let resultado = minuendo - sustraendo;
     console.log(resultado);
 }
 

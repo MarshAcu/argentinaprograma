@@ -1,5 +1,5 @@
 function calcularAreaRectangulo(base, altura) {
-    resultado = base * altura;
+    let resultado = base * altura;
     console.log(resultado);
 }
 

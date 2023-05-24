@@ -1,5 +1,5 @@
 function calcularPromedioDeTres(number1, number2, number3) {
-    resultado = (number1 + number2 + number3) / 3;
+    let resultado = (number1 + number2 + number3) / 3;
     console.log(resultado);
 }
 

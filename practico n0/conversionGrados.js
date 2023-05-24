@@ -1,5 +1,5 @@
 function farenheitACelcius(grados) {
-    resultado = (grados - 32) * 5/9;
+    let resultado = (grados - 32) * 5/9;
     console.log(resultado);
 }
 
